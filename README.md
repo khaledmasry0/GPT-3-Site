@@ -2,7 +2,7 @@
 
 <h4 align="center"> GPT-3 is a working artificial design tamplate, with React </h4>
 
-## project Demo:
+## project Demo: 
 https://khaledmasry0.github.io/GPT-3-Site/
 
 ## In this Project I Used:
